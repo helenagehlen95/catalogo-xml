@@ -27,7 +27,7 @@
         <image_link>https://helena-pm-loja.myshopify.com/cdn/shop/files/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg</image_link>
         <price>10.99</price>
         <sku>SKU-TSHIRT1-BLUE</sku>
-        <inventory_quantity>10</inventory_quantity>
+        <inventory_quantity>20</inventory_quantity>
       </Variant>
     </Variants>
   </Product>
